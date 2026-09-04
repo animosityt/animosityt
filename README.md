@@ -19,7 +19,8 @@
 ## ─── Overview ───
 
 <br>
-
+σ(￣、￣〃)
+<br>
 When I am not working on software, I focus most of my time on personal creative and technical projects.<br>
 I enjoy full-stack development driven by a genuine curiosity for low-level systems, sound synthesis, vector composition, and garment engineering.
 
@@ -29,7 +30,8 @@ While I am continuously building and learning, my technical knowledge extends we
 
 Outside of software engineering, I dedicate my focus to **textile design and apparel construction**,<br>
 producing electronic soundscapes, testing new audio VST plugins, vector illustration, CAD modeling in SolidWorks, cooking, and playing video games.
-
+<br><br>
+(－ω－) zzZ
 <br>
 
 ---
