@@ -4,11 +4,7 @@
 
 <sub> $\color{#cfffca}{\text{( ˘ω˘ ) software systems, sound design + garment construction}}$</sub>
 
-<br><br>
-
-ヾ(*'▽'*)
-
----
+<br>
 
 <br>
 
