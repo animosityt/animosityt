@@ -15,10 +15,12 @@
 <br>
 ( ･ω･)ﾉ
 <br><br>
-I'm an 11th grade student for a Vocational High School all the way in Argentina and i love coding and computer science!
+I'm an 11th grade student for a Vocational High School all the way in **Argentina** and i love coding and computer science!
 <br>
-The first time i touched a computer was when i was 4, and since then, i've been using computers non-stop, mainly to play videogames, but not anymore. <br>
-Since last year that i'm in the Informatics/Computer Science branch of my institution and it's been really pleasing to work with such great teachers. <br>
+The first time i touched a computer was when i was 4, and since then, i've been using computers non-stop, mainly to play videogames, but now i rarely play any. <br>
+
+Since last year that i'm in the **Informatics/Computer Science** branch of my institution and it's been really pleasing to work with such great teachers. <br><br>
+
 What truly makes my heart beat faster than usual is having an idea and being able to plasm that idea on my computer by programming it by hand!
 The tools that i use right now are: VSC, Dev C++, XAMPP, Claude (For time optimization), and for designing i use Inkscape, Photoshop, and learning Marvelous Designer!
 
