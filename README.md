@@ -1,31 +1,31 @@
 <div align="center">
 
-# $\color{#76ff68}{\text{Ciro Marchiori P.}}$
+# Ciro Marchiori P.
 
-<sub> $\color{#cfffca}{\text{( ˘ω˘ ) software systems, sound design + garment construction}}$</sub>
-
-<br>
+<sub>( ˘ω˘ ) software systems, sound design + garment construction</sub>
 
 <br>
 
-## $\color{#76ff68}{\text{─── Overview ───}}$
+<br>
+
+## ─── Overview ───
 
 <br>
 σ(￣、￣〃)
 <br><br><br><br>
 
-$\color{#ff9999}{\text{When I am not working on software, I focus most of my time on personal creative and technical projects.}}$
-$\color{#ff9999}{\text{I enjoy full-stack development driven by a genuine curiosity for low-level systems, sound synthesis,}}$
-$\color{#ff9999}{\text{vector composition, and garment engineering.}}$
+When I am not working on software, I focus most of my time on personal creative and technical projects.<br>
+I enjoy full-stack development driven by a genuine curiosity for low-level systems, sound synthesis,<br>
+vector composition, and garment engineering.
 
-$\color{#ff6666}{\text{What draws me most to web development is visual innovation and graphical elegance.}}$
-$\color{#ff6666}{\text{However, I deeply enjoy working with backend architecture, network protocols, server management,}}$
-$\color{#ff6666}{\text{and low-level system processes. While I am continuously building and learning,}}$
-$\color{#ff6666}{\text{my technical knowledge extends well beyond the fundamentals.}}$
+What draws me most to web development is visual innovation and graphical elegance.<br>
+However, I deeply enjoy working with backend architecture, network protocols, server management,<br>
+and low-level system processes. While I am continuously building and learning,<br>
+my technical knowledge extends well beyond the fundamentals.
 
-$\color{#ff9999}{\text{Outside of software engineering, I dedicate my focus to textile design and apparel construction,}}$
-$\color{#ff9999}{\text{producing electronic soundscapes, testing new audio VST plugins, vector illustration,}}$
-$\color{#ff9999}{\text{CAD modeling in SolidWorks, cooking, and playing video games.}}$
+Outside of software engineering, I dedicate my focus to textile design and apparel construction,<br>
+producing electronic soundscapes, testing new audio VST plugins, vector illustration,<br>
+CAD modeling in SolidWorks, cooking, and playing video games.
 
 <br><br><br><br>
 (－ω－)ᶻᶻᶻ
@@ -35,7 +35,7 @@ $\color{#ff9999}{\text{CAD modeling in SolidWorks, cooking, and playing video ga
 
 <br>
 
-## $\color{#76ff68}{\text{─── Tech Stack and Skills ───}}$
+## ─── Tech Stack and Skills ───
 
 <br>
 
@@ -48,7 +48,10 @@ $\color{#ff9999}{\text{CAD modeling in SolidWorks, cooking, and playing video ga
 | **Creative & Audio** | Graphic Design · Audio Synthesis · VST Plugins · Garment Construction |
 
 <br><br>
-![Red Apple](https://img.shields.io/badge/Apple-Red_Delicious-ff2d55?style=for-the-badge&logo=apple&logoColor=ffffff&labelColor=80001a)
+
+![Apple](https://img.shields.io/badge/Apple-Red_Delicious-000000?style=for-the-badge&logo=apple&logoColor=ffffff&labelColor=111111)
+
+<br>
 
 ```cpp
 #include <iostream>
