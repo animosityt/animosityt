@@ -2,18 +2,18 @@
 
 # Ciro Marchiori Piccirilli
 
-<sub>( ˘ω˘ ) building software, audio architectures & garments</sub>
+<sub>( ˘ω˘ ) software systems, sound design & garment construction</sub>
 
 <br>
 
 <a href="https://github.com/animosityt">
-  <img src="https://img.shields.io/badge/status-active-0a2f1d?style=for-the-badge&labelColor=000000&color=00a86b" alt="Status">
+  <img src="https://img.shields.io/badge/GitHub-animosityt-0a1a12?style=for-the-badge&logo=github&logoColor=00ff9d&labelColor=003d27" alt="GitHub">
 </a>
-<a href="https://github.com/animosityt">
-  <img src="https://img.shields.io/badge/focus-systems%20%26%20web-0a2f1d?style=for-the-badge&labelColor=000000&color=00d185" alt="Focus">
+<a href="https://www.instagram.com/aniimossity/">
+  <img src="https://img.shields.io/badge/Instagram-@aniimossity-0a1a12?style=for-the-badge&logo=instagram&logoColor=00ff9d&labelColor=003d27" alt="Instagram">
 </a>
-<a href="https://github.com/animosityt">
-  <img src="https://img.shields.io/badge/style-minimalist%20jade-0a2f1d?style=for-the-badge&labelColor=000000&color=008053" alt="Style">
+<a href="https://discord.com">
+  <img src="https://img.shields.io/badge/Discord-animossiity-0a1a12?style=for-the-badge&logo=discord&logoColor=00ff9d&labelColor=003d27" alt="Discord">
 </a>
 
 <br><br>
@@ -22,19 +22,19 @@
 
 <br>
 
-## ─── 概要 ｜ Overview ───
+## ─── Overview ───
 
 <br>
 
-When I am not coding, I focus most of my free time on personal projects.<br>
-I enjoy full-stack development driven by a genuine curiosity for low-level systems, sound synthesis, and visual aesthetics.
+When I am not working on software, I focus most of my time on personal creative and technical projects.<br>
+I enjoy full-stack development driven by a genuine curiosity for low-level systems, sound synthesis, vector composition, and garment engineering.
 
-What draws me most to **web development** is visual innovation and graphical layout.<br>
-However, I deeply enjoy everything related to **backend architecture, network protocols, and low-level processes**.<br>
-While I am continuously building and learning, my understanding goes well beyond the basics.
+What draws me most to **web development** is visual innovation and graphical elegance.<br>
+However, I deeply enjoy working with **backend architecture, network protocols, server management, and low-level system processes**.<br>
+While I am continuously building and learning, my technical knowledge extends well beyond the fundamentals.
 
-Outside of software engineering, I dedicate my energy to **textile design and clothing construction**,<br>
-producing music, testing new VST tools, cooking, and playing video games.
+Outside of software engineering, I dedicate my focus to **textile design and apparel construction**,<br>
+producing electronic soundscapes, testing new audio VST plugins, vector illustration, CAD modeling in SolidWorks, cooking, and playing video games.
 
 <br>
 
@@ -42,15 +42,16 @@ producing music, testing new VST tools, cooking, and playing video games.
 
 <br>
 
-## ─── 技 ｜ Tech Stack & Skills ───
+## ─── Tech Stack & Skills ───
 
 <br>
 
-| Category | Technologies & Tools |
+| Domain | Technologies & Tools |
 | :---: | :---: |
 | **Core Languages** | `C++` · `C#` · `JavaScript` · `HTML5` · `CSS3` · `SQL` |
 | **Currently Learning** | `PHP` |
 | **Systems & Networking** | Linux Terminal · Process Monitoring · Network Protocols · Server Troubleshooting |
+| **Vector & 3D Modeling** | Vector Illustration · SolidWorks 3D CAD Modeling |
 | **Creative & Audio** | Graphic Design · Audio Synthesis · VST Plugins · Garment Construction |
 
 <br>
