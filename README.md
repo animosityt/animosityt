@@ -45,7 +45,7 @@ producing electronic soundscapes, testing new audio VST plugins, vector illustra
 | Domain | Technologies & Tools |
 | :---: | :---: |
 | **Core Languages** | `C++` · `C#` · `JavaScript` · `HTML5` · `CSS3` · `SQL` |
-| **Currently Learning** | `PHP` |
+| **Currently Learning** | `PHP` `Python` |
 | **Systems & Networking** | Linux Terminal · Process Monitoring · Network Protocols · Server Troubleshooting |
 | **Vector & 3D Modeling** | Vector Illustration · SolidWorks 3D CAD Modeling |
 | **Creative & Audio** | Graphic Design · Audio Synthesis · VST Plugins · Garment Construction |
