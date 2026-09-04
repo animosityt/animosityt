@@ -24,7 +24,10 @@ Since last year that i'm in the **Informatics/Computer Science** branch of my in
 What truly makes my heart beat faster than usual is having an idea and being able to plasm that idea on my computer by programming it by hand! <br><br>
 
 I'm on my way to learn french, but i can handle english just as good as spanish (natal language).<br><br>
+
 ヾ(*'▽'*)
+
+<img src="https://imgs.search.brave.com/aqzd_ZPnQCwfwNql3u694LQfaMnNliv2d6Azjb62rmk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi90c3At/YWNyb255bS13b29k/ZW4tYmxvY2std2hp/dGUtYmFja2dyb3Vu/ZC1iYWxscy10ZWNo/bm9sb2d5LXNlcnZp/Y2UtcHJvdmlkZXIt/YnVzaW5lc3MtcGxh/bi0zMDU1MzEyNzQu/anBn">
 ---
 
 <br>
