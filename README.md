@@ -1,37 +1,66 @@
-# Ciro Marchiori Piccirilli ｜ Profile
+<div align="center">
 
-<p align="center">
-  <sub>( ˘ω˘ ) building software, soundscapes & garments</sub>
-</p>
+# Ciro Marchiori Piccirilli
 
-![status](https://img.shields.io/badge/status-active-2f5233)
-![focus](https://img.shields.io/badge/focus-systems%20%26%20web-2f5233)
-![license](https://img.shields.io/badge/license-MIT-2f5233)
+<sub>( ˘ω˘ ) building software, audio architectures & garments</sub>
+
+<br>
+
+<a href="https://github.com/animosityt">
+  <img src="https://img.shields.io/badge/status-active-0a2f1d?style=for-the-badge&labelColor=000000&color=00a86b" alt="Status">
+</a>
+<a href="https://github.com/animosityt">
+  <img src="https://img.shields.io/badge/focus-systems%20%26%20web-0a2f1d?style=for-the-badge&labelColor=000000&color=00d185" alt="Focus">
+</a>
+<a href="https://github.com/animosityt">
+  <img src="https://img.shields.io/badge/style-minimalist%20jade-0a2f1d?style=for-the-badge&labelColor=000000&color=008053" alt="Style">
+</a>
+
+<br><br>
 
 ---
 
-## Overview ｜ About Me
+<br>
 
-When I am not working on software, I spend most of my time focusing on personal projects. I enjoy full-stack development combined with a strong curiosity for systems, sound synthesis, and design aesthetics.
+## ─── 概要 ｜ Overview ───
 
-What I enjoy most about web design is innovation and graphic aesthetic. However, I deeply appreciate backend engineering, communication protocols, and networking. While I am constantly learning, I have a solid understanding well beyond the basics.
+<br>
 
-Outside of tech, I dedicate my free time to textile design and garment construction, producing music, testing new audio VSTs, cooking, and playing video games.
+When I am not coding, I focus most of my free time on personal projects.<br>
+I enjoy full-stack development driven by a genuine curiosity for low-level systems, sound synthesis, and visual aesthetics.
 
-## Stack ｜ Technologies
+What draws me most to **web development** is visual innovation and graphical layout.<br>
+However, I deeply enjoy everything related to **backend architecture, network protocols, and low-level processes**.<br>
+While I am continuously building and learning, my understanding goes well beyond the basics.
 
-| Domain | Languages & Technologies |
-|:---:|---|
-| **Core Languages** | C++, C#, JavaScript, HTML5, CSS3, SQL |
-| **Learning / Expanding** | PHP |
-| **Systems & Network** | Linux administration, networking protocols, process monitoring |
-| **Creative Tools** | Graphic design, audio VSTs & sound synthesis, textile design |
+Outside of software engineering, I dedicate my energy to **textile design and clothing construction**,<br>
+producing music, testing new VST tools, cooking, and playing video games.
+
+<br>
+
+---
+
+<br>
+
+## ─── 技 ｜ Tech Stack & Skills ───
+
+<br>
+
+| Category | Technologies & Tools |
+| :---: | :---: |
+| **Core Languages** | `C++` · `C#` · `JavaScript` · `HTML5` · `CSS3` · `SQL` |
+| **Currently Learning** | `PHP` |
+| **Systems & Networking** | Linux Terminal · Process Monitoring · Network Protocols · Server Troubleshooting |
+| **Creative & Audio** | Graphic Design · Audio Synthesis · VST Plugins · Garment Construction |
+
+<br>
 
 ```cpp
 #include <iostream>
 using namespace std;
 
 int main() {
-    cout << "Focusing on personal projects & clean architecture." << endl;
+    // Systems engineering & aesthetic precision
+    cout << "Focusing on personal projects, audio synthesis & low-level code." << endl;
     return 0;
 }
