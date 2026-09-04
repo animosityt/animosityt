@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ciro Marchiori Piccirilli
+# Ciro Marchiori P.
 
 <sub>( ˘ω˘ ) software systems, sound design & garment construction</sub>
 
@@ -8,12 +8,6 @@
 
 <a href="https://github.com/animosityt">
   <img src="https://img.shields.io/badge/GitHub-animosityt-0a1a12?style=for-the-badge&logo=github&logoColor=00ff9d&labelColor=003d27" alt="GitHub">
-</a>
-<a href="https://www.instagram.com/aniimossity/">
-  <img src="https://img.shields.io/badge/Instagram-@aniimossity-0a1a12?style=for-the-badge&logo=instagram&logoColor=00ff9d&labelColor=003d27" alt="Instagram">
-</a>
-<a href="https://discord.com">
-  <img src="https://img.shields.io/badge/Discord-animossiity-0a1a12?style=for-the-badge&logo=discord&logoColor=00ff9d&labelColor=003d27" alt="Discord">
 </a>
 
 <br><br>
