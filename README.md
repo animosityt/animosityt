@@ -31,7 +31,7 @@ While I am continuously building and learning, my technical knowledge extends we
 Outside of software engineering, I dedicate my focus to **textile design and apparel construction**,<br>
 producing electronic soundscapes, testing new audio VST plugins, vector illustration, CAD modeling in SolidWorks, cooking, and playing video games.
 <br><br><br><br>
-(－ω－) zzZ
+(－ω－)ᶻᶻᶻ
 <br>
 
 ---
