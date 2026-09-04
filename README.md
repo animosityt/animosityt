@@ -28,7 +28,7 @@ I'm on my way to learn french, but i can handle english just as good as spanish 
 ヾ(*'▽'*)
 
 <a href="https://instagram.com/aniimossity">
-  <img style="width: 300px; height: 300px;" src="[https://imgs.search.brave.com/vlFu-Dj2_fMavrtTmCpkhgho6Ocn2_SNSleXFYPwIhE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wcmV2/aWV3LnJlZGQuaXQv/dGhlLW9sZC1pbnN0/YWdyYW0tbG9nby1p/cy1qdXN0LXNvLWNv/b2wtaW4tbXktb3Bp/bmlvbi12MC1uNTBi/NmdvamE5NWQxLnBu/Zz9hdXRvPXdlYnAm/cz0wOTBmNDhmOWM0/M2FkYmI5NDY3M2Ix/ZjFjZTg3YjI2MDY2/NjYwZTlm](https://imgs.search.brave.com/8qmRzOxripgKseP7D_BtsGCFPOv1Yzu7LVBbanx70jY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/YTRlNDJlNTJkYTVh/ZDczZGY3ZWZlNzku/cG5n)"
+  <img style="width: 300px; height: 300px;" src="file:///C:/Users/ciro/Downloads/5a4e42e52da5ad73df7efe79.png"
 </a>
 
 ---
