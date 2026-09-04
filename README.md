@@ -4,33 +4,6 @@
 
 <sub> $\color{#cfffca}{\text{( ˘ω˘ ) software systems, sound design + garment construction}}$</sub>
 
-<br>
-
-<a href="https://github.com/animosityt">
-  <img src="https://img.shields.io/badge/GitHub-animosityt-1c0505?style=for-the-badge&logo=github&logoColor=ff4d4d&labelColor=330a0a" alt="GitHub">
-</a>
-
-<br><br>
-
-## $\color{#76ff68}{\text{─── Presentation ───}}$
-
-<br>
-( ･ω･)ﾉ
-<br><br>
-
-$\color{#ff9999}{\text{I'm an 11th grade student for a Vocational High School all the way in Argentina and i really like informatics!}}$
-
-$\color{#ff6666}{\text{The first time i touched a computer was when i was 4, and since then, i've been using computers non-stop,}}$
-$\color{#ff6666}{\text{mainly to play videogames, but now i rarely play any.}}$
-
-$\color{#ff9999}{\text{Since last year that i'm in the Informatics/Computer Science branch of my institution}}$
-$\color{#ff9999}{\text{and it's been really pleasing to work with such great teachers.}}$
-
-$\color{#ff6666}{\text{What truly makes my heart beat faster than usual is having an idea and being able to plasm that idea}}$
-$\color{#ff6666}{\text{on my computer by programming it by hand!}}$
-
-$\color{#ff9999}{\text{I'm on my way to learn french, but i can handle english just as good as spanish (natal language).}}$
-
 <br><br>
 
 ヾ(*'▽'*)
