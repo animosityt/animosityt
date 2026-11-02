@@ -41,8 +41,8 @@ CAD modeling in SolidWorks, cooking, and playing video games.
 
 | Domain | Technologies & Tools |
 | :---: | :---: |
-| **Core Languages** | `C++` · `C#` · `JavaScript` · `HTML5` · `CSS3` · `SQL` |
-| **Currently Learning** | `PHP` `Python` |
+| **Core Languages** | `C++` · `JavaScript` · `HTML5` · `CSS3` · `SQL` · `PHP` |
+| **Currently Learning** | `Python` · `VST3` |
 | **Systems & Networking** | Linux Terminal · Process Monitoring · Network Protocols · Server Troubleshooting |
 | **Vector & 3D Modeling** | Vector Illustration · SolidWorks 3D CAD Modeling |
 | **Creative & Audio** | Graphic Design · Audio Synthesis · VST Plugins · Garment Construction |
