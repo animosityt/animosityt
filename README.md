@@ -2,7 +2,7 @@
 
 # Ciro Marchiori P.
 
-<sub>( ˘ω˘ ) software systems, sound design + garment construction</sub>
+<sub>software systems, sound design + garment construction</sub>
 
 <br>
 
@@ -11,7 +11,7 @@
 ## ─── Overview ───
 
 <br>
-σ(￣、￣〃)
+
 <br><br><br><br>
 
 When I am not working on software, I focus most of my time on personal creative and technical projects.<br>
@@ -28,7 +28,7 @@ producing electronic soundscapes, testing new audio VST plugins, vector illustra
 CAD modeling in SolidWorks, cooking, and playing video games.
 
 <br><br><br><br>
-(－ω－)ᶻᶻᶻ
+ᶻᶻᶻ
 <br>
 
 ---
